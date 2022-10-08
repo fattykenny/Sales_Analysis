@@ -1,3 +1,4 @@
+
 # Sales Dashboard Visualization Analysis
 
 ## Project Objective
@@ -36,4 +37,11 @@ The dataset used is an excel file cleaned and transformed in Power Query of Powe
 * Segment by Profit
 * Profit by Segment
 * Profit by Month and Region
+
+![Sales Report 1](https://user-images.githubusercontent.com/98432917/194720529-0c80bc52-d75f-4f21-8614-fd1568b498b6.PNG)
+
+![Sales Report 2](https://user-images.githubusercontent.com/98432917/194720555-e0b4c4f1-d70a-417c-8bd0-3f829768ada7.PNG)
+
+
+
 
